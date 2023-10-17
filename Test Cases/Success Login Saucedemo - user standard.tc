@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Success Login Saucedemo - user standard</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a39b3c41-f588-471d-a468-eeaae17853db</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7a987bf4-272f-4ea0-b0c3-3539de8b58e2</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'standard_user2'</defaultValue>
+      <description></description>
+      <id>7a987bf4-272f-4ea0-b0c3-3539de8b58e2</id>
+      <masked>false</masked>
+      <name>user_user2</name>
+   </variable>
+</TestCaseEntity>
